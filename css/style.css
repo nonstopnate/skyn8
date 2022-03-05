@@ -41,7 +41,7 @@ section, summary, time, mark, audio, video {
 
 html, body {
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
-	background-image: -webkit-linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
+	background-image: -webkit-linear-gradient(45deg, rgb(8, 29, 146) 0%, rgb(48, 105, 180) 100%);
 	min-height: 100%;
 	font-family: 'Catamaran';
 	color: #fff !important
