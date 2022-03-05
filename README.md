@@ -1,4 +1,4 @@
-# Sky (default) WonderCMS theme 2022
+# Fork of Sky (default) WonderCMS theme 2022
 Fully responsive.
 
 ## Preview
